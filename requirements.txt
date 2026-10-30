@@ -1,0 +1,6 @@
+opencv-python
+numpy
+mediapipe
+dlib-bin
+face_recognition
+setuptools<81

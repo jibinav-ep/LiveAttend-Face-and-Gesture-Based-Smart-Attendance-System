@@ -1,0 +1,9 @@
+# Private data: never upload
+encodings.pkl
+attendance.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
